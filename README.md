@@ -1,4 +1,4 @@
-# grpc-terraform
+# GRPC-Terraform
 This repository shows an example of deploying a GRPC server AWS that is:
 
 * Isolated in a virtual-private-cloud (VPC)
